@@ -1,2 +1,4 @@
 # bruceboding.github.io
-project page
+## This is the playground of Bruce for learning creative coding. 
+
+
